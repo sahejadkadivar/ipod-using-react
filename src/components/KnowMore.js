@@ -38,8 +38,6 @@ class KnowMore extends React.Component {
                     <p>7. Songs do play, Please checkout settings menu</p>
                     <p>Github-Link : <a href="https://github.com/sahejadkadivar/ipod-using-react">iPod</a> 
                     </p>
-                    <p>Hosting-Link : <a href="#">iPod-Hosted</a> 
-                    </p>
                     <p>App Developed by : <a href="https://github.com/sahejadkadivar">Sahejad Kadivar</a></p>
                     <p>credits : Apple, Flaticon, Fontawesome</p>
                 </div>

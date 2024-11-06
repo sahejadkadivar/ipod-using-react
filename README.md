@@ -1,5 +1,4 @@
 # iPod-Using-React
-## View this app at: 
 
 ## View demo here:
 [Watch the video](demo.mov)

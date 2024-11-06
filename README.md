@@ -1,4 +1,4 @@
-# iPod-Classic
+# iPod-Using-React
 ## View this app at: 
 
 ## View demo here:
